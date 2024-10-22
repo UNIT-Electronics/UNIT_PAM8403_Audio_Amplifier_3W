@@ -1,21 +1,30 @@
 
 # UNIT PAM8403 Amplificador de Audio 3W
 
-![UNIT PAM8403](ruta_a_la_imagen_principal.jpg) <!-- Coloca aquí la URL de la imagen del módulo PAM8403 -->
+![UNIT PAM8403](ruta_a_la_imagen_principal.jpg) 
 
 El **UNIT PAM8403 Amplificador de Audio 3W** es un módulo de amplificación de audio en clase D diseñado para ofrecer una salida estéreo de hasta 3W por canal con alta eficiencia. Ideal para aplicaciones de audio portátiles y proyectos con dispositivos de bajo consumo, como reproductores de música, altavoces portátiles y sistemas alimentados por baterías.
 
 ## Características del Módulo
 
-![Pinout del UNIT PAM8403](ruta_a_la_imagen_pinout.jpg) <!-- URL de la imagen del pinout del módulo -->
+![Pinout del UNIT PAM8403](ruta_a_la_imagen_pinout.jpg) 
 
 - **Voltaje de operación:** 2.5V a 5.5V, compatible con fuentes USB y baterías de litio.
 - **Potencia de salida:** 3W por canal (4Ω, 5V).
+- **Consumo de corriente:** 5V/40mA en reposo y 5V/500mA a carga máxima.
 - **Eficiencia:** Hasta 90%, minimizando el consumo de energía.
 - **Distorsión armónica total (THD):** Menos del 0.1%, asegurando una excelente calidad de sonido.
-- **Diseño compacto:** No necesita componentes adicionales como filtros externos.
+- **Tamaño compacto:** 19 mm x 22 mm, ideal para proyectos con espacio limitado.
+- **Rango de impedancia:** Soporta altavoces con una impedancia de 4Ω a 8Ω.
 - **Protección:** Incluye protección contra sobrecalentamiento y cortocircuitos.
-- **Facilidad de uso:** Directamente compatible con plataformas como RP2040 y ESP32, perfecto para proyectos DIY y educativos.
+- **Temperatura de operación:** -40°C a 85°C, adecuado para aplicaciones industriales y ambientes extremos.
+
+# Datasheet
+
+Para más información técnica detallada sobre el módulo PAM8403, consulta el siguiente documento:
+
+👉 [Descargar el Datasheet del PAM8403](https://www.mouser.com/ds/2/115/PAM8403-247318.pdf?srsltid=AfmBOorzunVHYR1wIITzAZVypkFj5LkC2lR0cZLh1zfklQpAhanR1Qrl)
+
 
 ## Tabla de Pinout
 
@@ -36,9 +45,9 @@ Para un ejemplo detallado de cómo utilizar el **UNIT PAM8403** con la combinaci
 
 ## Links de compra
 
-Puedes adquirir el módulo **UNIT PAM8403 Amplificador de Audio 3W** directamente en [UNIT Electronics](https://www.unitelectronics.com).
+Puedes adquirir el módulo **UNIT PAM8403 Amplificador de Audio 3W** directamente en [UNIT Electronics](https://www.uelectronics.com).
 
-### Especificaciones técnicas:
+### Ventajas técnicas:
 
 - **Amplificador de Clase D**: Tecnología de amplificación eficiente que reduce el consumo de energía.
 - **Consumo ultrabajo**: Perfecto para dispositivos móviles y alimentados por batería.
