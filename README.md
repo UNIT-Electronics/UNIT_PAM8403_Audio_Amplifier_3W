@@ -1,13 +1,10 @@
 
 # UNIT PAM8403 Amplificador de Audio 3W
 
-![UNIT PAM8403](ruta_a_la_imagen_principal.jpg) 
-
 El **UNIT PAM8403 Amplificador de Audio 3W** es un módulo de amplificación de audio en clase D diseñado para ofrecer una salida estéreo de hasta 3W por canal con alta eficiencia. Ideal para aplicaciones de audio portátiles y proyectos con dispositivos de bajo consumo, como reproductores de música, altavoces portátiles y sistemas alimentados por baterías.
 
 ## Características del Módulo
 
-![Pinout del UNIT PAM8403](ruta_a_la_imagen_pinout.jpg) 
 <img src="Docs/Pinout_EN.jpg?raw=false" width="800px"><br/>
 
 
