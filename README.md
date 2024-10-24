@@ -9,6 +9,8 @@ El **UNIT PAM8403 Amplificador de Audio 3W** es un módulo de amplificación de 
 
 ![Pinout del UNIT PAM8403](ruta_a_la_imagen_pinout.jpg) 
 
+
+
 - **Voltaje de operación:** 2.5V a 5.5V, compatible con fuentes USB y baterías de litio.
 - **Potencia de salida:** 3W por canal (4Ω, 5V).
 - **Consumo de corriente:** 5V/40mA en reposo y 5V/500mA a carga máxima.
@@ -28,7 +30,7 @@ Para más información técnica detallada sobre el módulo PAM8403, consulta el 
 
 ## Tabla de Pinout
 
-La siguiente tabla detalla las conexiones principales del **UNIT PAM8403**:
+La siguiente tabla detalla las conexiones principales del módulo amplificador **UNIT PAM8403**:
 
 | PIN  | Descripción             | Conexión Sugerida con RP2040/ESP32 |
 | ---- | ----------------------- | ---------------------------------- |
@@ -39,9 +41,9 @@ La siguiente tabla detalla las conexiones principales del **UNIT PAM8403**:
 | OUTL | Salida de audio izquierdo | Altavoz                           |
 | OUTR | Salida de audio derecho   | Altavoz                           |
 
-Para un ejemplo detallado de cómo utilizar el **UNIT PAM8403** con la combinación de **RP2040** y **ESP32**, consulta la guía de uso en el siguiente enlace:
+Para un ejemplo detallado de cómo utilizar el **UNIT PAM8403** con el microcontrolador **ESP32**, consulta la guía de uso en el siguiente enlace:
 
-👉 [Guía de Uso del UNIT PAM8403 con Dual MCU RP2040/ESP32](enlace_a_tu_guia.md)
+👉 [Guía de Uso del UNIT PAM8403 con DualMCU ESP32](https://github.com/UNIT-Electronics/VoiceAmp_Synth_ESP32)
 
 ## Links de compra
 
