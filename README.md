@@ -8,7 +8,7 @@ El **UNIT PAM8403 Amplificador de Audio 3W** es un módulo de amplificación de 
 ## Características del Módulo
 
 ![Pinout del UNIT PAM8403](ruta_a_la_imagen_pinout.jpg) 
-
+<img src="Docs/Pinout_EN.jpg?raw=false" width="800px"><br/>
 
 
 - **Voltaje de operación:** 2.5V a 5.5V, compatible con fuentes USB y baterías de litio.
