@@ -3,6 +3,10 @@
 
 El **UNIT PAM8403 Amplificador de Audio 3W** es un módulo de amplificación de audio en clase D diseñado para ofrecer una salida estéreo de hasta 3W por canal con alta eficiencia. Ideal para aplicaciones de audio portátiles y proyectos con dispositivos de bajo consumo, como reproductores de música, altavoces portátiles y sistemas alimentados por baterías.
 
+- Potencia por canal: El PAM8403 puede entregar hasta 3W por canal en cargas de 4 ohmios.
+- Potencia total: En modo estéreo, esto significa que puede proporcionar un total de hasta 6W (3W por canal) cuando se alimenta con una fuente adecuada.
+- Cargas: La potencia puede variar dependiendo de la impedancia de los altavoces conectados. A 8 ohmios, la potencia por canal es aproximadamente 1.5W.
+
 ## Características del Módulo
 
 <img src="Docs/Pinout_ES.jpg?raw=false" width="800px"><br/>
