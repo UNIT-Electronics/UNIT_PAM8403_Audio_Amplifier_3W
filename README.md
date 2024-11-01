@@ -48,7 +48,7 @@ Para un ejemplo detallado de cómo utilizar el **UNIT PAM8403** con el microcont
 
 ## Links de compra
 
-Puedes adquirir el módulo **UNIT PAM8403 Amplificador de Audio 3W** directamente en [UNIT Electronics](https://www.uelectronics.com).
+Puedes adquirir el módulo **UNIT PAM8403 Amplificador de Audio 3W** directamente en [UNIT Electronics](https://uelectronics.com/producto/unit-pam8403-amplificador-de-audio/).
 
 ### Ventajas técnicas:
 
